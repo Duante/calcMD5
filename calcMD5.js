@@ -1,8 +1,5 @@
 /*!
  * calcMD5 - Md5 encryption for Javascript.
- * https://github.com/selltt/calcMD5
- * (c) w d.s
- * wisewds@gmail.com
  */
 var hex_chr = "0123456789abcdef";
 function rhex(i) {
